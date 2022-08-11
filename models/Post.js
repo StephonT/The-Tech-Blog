@@ -14,13 +14,16 @@ Post.init(
       },
       title: {
         type: DataTypes.STRING,
-        allowNull: false
+        allowNull: false,
+        validate: {
+            len: [1]
+        }
       },
-      post_url: {
+      post_text: {
         type: DataTypes.STRING,
         allowNull: false,
         validate: {
-          isURL: true
+          len:[1]
         }
       },
       user_id: {
