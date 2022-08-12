@@ -18,6 +18,7 @@
   ## Usage
   This application will allow users to sign up if they are not a member, then once they are logged in they are able to view their dashboard of posts to view, add, edit, and delete blog posts and comment on other developers post.
   <br>
+  <br>
   Please review the deployed app on Heroku: <a href="https://mysterious-headland-04769.herokuapp.com/">The Tech Blog</a>
 
   ## License
