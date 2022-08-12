@@ -1,11 +1,11 @@
 :root {
-    --primary-color: #6F1E51;
-    --primary-hover: #B53471;
+    --primary-color: #ADA311;
+    --primary-hover:#111CAD;
 }
 
 * {
     box-sizing: border-box;
- 
+    
   }
 
 body, html, input, textarea {
