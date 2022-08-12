@@ -20,6 +20,10 @@
   <br>
   <br>
   Please review the deployed app on Heroku: <a href="https://mysterious-headland-04769.herokuapp.com/">The Tech Blog</a>
+  <br>
+  <br>
+  ![Tech-Blog-SS](https://user-images.githubusercontent.com/104699408/184282341-5553945d-7233-4e53-ab96-38bc74d2c1fe.jpg)
+
 
   ## License
   This project is license under MIT
